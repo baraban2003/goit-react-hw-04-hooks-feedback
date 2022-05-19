@@ -1,0 +1,10 @@
+.feedbackButton:not(:last-child) {
+  color: white;
+  margin-right: 10px;
+  width: 80px;
+  height: 30px;
+  background-color: rgba(0, 89, 255, 0.773);
+  border-radius: 3px;
+  border: 1px transparent;
+  cursor: pointer;
+}

@@ -1,0 +1,14 @@
+li:not(:last-child) {
+  margin-bottom: 7px;
+}
+
+.total {
+  margin-top: 10px;
+  font-weight: 500;
+  margin-left: 10px;
+}
+.positivePercentage {
+  margin-left: 10px;
+  font-weight: 500;
+  font-style: italic;
+}
